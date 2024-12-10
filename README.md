@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+              - name: AoC-badges
+                uses: J0B10/aoc-badges-action@v3.0.0
+            
